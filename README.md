@@ -20,7 +20,7 @@ Al tener ya las condiciones se procedio a hacer el diagrama de estados y luego a
 
 # Vivado
 
-[text](c:/Users/smmad/FSM)
+los archivos del proyecto se encuentran en la carpeta FSM.
 
 
 
