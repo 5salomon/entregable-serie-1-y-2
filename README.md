@@ -40,6 +40,15 @@ en esta parte se asegura de que cumpla con todas las restricciones y requisitos 
 
 ![alt text](image-7.png)
 
+# Synthesis
+
+Durante la síntesis, evaluamos si nuestro dispositivo tiene la capacidad de ejecutar la función descrita en nuestro código utilizando sus componentes. En el caso específico de la Basys3, se destacan ciertas partes del dispositivo que serán utilizadas para ejecutar el código.
+
+
+![alt text](image-9.png)
+
+![alt text](image-10.png)
+
 
 
 
