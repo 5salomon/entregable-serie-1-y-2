@@ -55,7 +55,11 @@ En este paso, se muestran las partes específicas que se utilizarán para la imp
 
 ![alt text](image-11.png)
 
+# Program and Debug
 
+en esta parte se genera el bitstream el cual configura todas las conexiones que se hicieron , respetando la netlist que se creo.Despues de esto ya se puede programar nuestra bassys3.
+
+![alt text](image-12.png)
 
 
 
