@@ -18,6 +18,11 @@ Al tener ya las condiciones se procedio a hacer el diagrama de estados y luego a
 
 ![alt text](image-5.png)
 
+# Vivado
+
+[text](c:/Users/smmad/FSM)
+
+
 
 
 
