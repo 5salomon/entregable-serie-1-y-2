@@ -73,6 +73,7 @@ Los resultados obtenidos en la implementación del semáforo con una máquina de
 
 # video
 
+https://youtu.be/Xbo3ewA5SWE
 
 
 
