@@ -62,6 +62,18 @@ en esta parte se genera el bitstream el cual configura todas las conexiones que 
 ![alt text](image-12.png)
 
 
+# Discusion de resultados 
+El semáforo implementado ha demostrado un comportamiento adecuado en la regulación del tráfico, alternando entre estados de "verde", "amarillo" y "rojo" de manera fluida y coherente.
+
+La utilización de una FSM ha permitido una gestión eficiente de los estados del semáforo, facilitando su control y garantizando su util funcionamiento.
+
+Se ha evaluado la flexibilidad del sistema para adaptarse a diferentes escenarios y condiciones de tráfico. Se ha demostrado que el diseño es configurable y puede ajustarse fácilmente para satisfacer requisitos específicos, como tiempos de espera o patrones de tráfico variables. 
+
+Los resultados obtenidos en la implementación del semáforo con una máquina de estados finitos en una FPGA son muy buenos, demostrando un funcionamiento eficiente, confiable y adaptable. Este proyecto sento una base sólida para futuros desarrollo de sistemas secuanciales y sistemas embebidos.
+
+# video
+
+
 
 
 
