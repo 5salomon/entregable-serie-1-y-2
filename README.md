@@ -49,6 +49,12 @@ Durante la síntesis, evaluamos si nuestro dispositivo tiene la capacidad de eje
 
 ![alt text](image-10.png)
 
+# Implementación
+
+En este paso, se muestran las partes específicas que se utilizarán para la implementación, junto con las conexiones relizadas en la fpga.se genera una imagen similar a la de síntesis, pero esta vez resaltando las slice que serán utilizadas.
+
+![alt text](image-11.png)
+
 
 
 
