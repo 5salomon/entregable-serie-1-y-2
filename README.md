@@ -22,6 +22,26 @@ Al tener ya las condiciones se procedio a hacer el diagrama de estados y luego a
 
 los archivos del proyecto se encuentran en la carpeta FSM.
 
+El codigo de la programacion del proyecto consta de tres partes: TOP_FSM2_P2 , clck_psc y FSM_PS2_sw.
+
+EL TOP_FSM2_P2 se mandan a llamar como instacias clck_psc y FSM_PS2_sw, en esta parte del top tambien se declararon cuantas entradas se van a tener y cuantas salidas.
+
+En la parte del clck se utilizo el clck de 100Mhz que tiene la placa bassys3 para generar los pulsos necesarios para generar las secuencias. 
+
+y en la parte de  FSM_PS2_sw se realizo toda la programacion del semaforo , basado en las tablas de estados y las tablas de salidas que se hicieron con anterioridad.
+
+# pasos del develoment flow
+
+# RTL analisys 
+
+en esta parte se asegura de que cumpla con todas las restricciones y requisitos correctamente. Además, se realiza un esquemático del sistema descrito en el código, lo que implica representar los diferentes módulos como bloques para una mejor visualización. 
+
+![alt text](image-6.png)
+
+![alt text](image-7.png)
+
+
+
 
 
 
