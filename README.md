@@ -14,5 +14,6 @@ Al tener ya las condiciones se procedio a hacer el diagrama de estados y luego a
 
 ![alt text](image-4.png)
 
+# VIVADO
 
 
