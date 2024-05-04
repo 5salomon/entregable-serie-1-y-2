@@ -75,6 +75,9 @@ Los resultados obtenidos en la implementación del semáforo con una máquina de
 
 https://youtu.be/Xbo3ewA5SWE
 
+https://youtu.be/EyRLi9sBO00
+
+
 
 
 
